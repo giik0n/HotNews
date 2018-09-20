@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "958375559289",
+    "firebase_url": "https://hotnews-testproject.firebaseio.com",
+    "project_id": "hotnews-testproject",
+    "storage_bucket": "hotnews-testproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958375559289:android:a36efb20ec905acf",
+        "android_client_info": {
+          "package_name": "com.babylon.alex.hotnews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "958375559289-jhmclm3t0gnhkfr9lt7qscb78me2tkcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-B1a2hs2IvfoXxQtEVQSUVvdwwp_U9JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
